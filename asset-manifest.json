@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ogingo54john.github.io/csb-7rf83/static/css/main.6504e32b.chunk.css",
+    "main.js": "https://ogingo54john.github.io/csb-7rf83/static/js/main.a4ec8b40.chunk.js",
+    "main.js.map": "https://ogingo54john.github.io/csb-7rf83/static/js/main.a4ec8b40.chunk.js.map",
+    "runtime-main.js": "https://ogingo54john.github.io/csb-7rf83/static/js/runtime-main.2179bbc2.js",
+    "runtime-main.js.map": "https://ogingo54john.github.io/csb-7rf83/static/js/runtime-main.2179bbc2.js.map",
+    "static/js/2.e0fe63e5.chunk.js": "https://ogingo54john.github.io/csb-7rf83/static/js/2.e0fe63e5.chunk.js",
+    "static/js/2.e0fe63e5.chunk.js.map": "https://ogingo54john.github.io/csb-7rf83/static/js/2.e0fe63e5.chunk.js.map",
+    "index.html": "https://ogingo54john.github.io/csb-7rf83/index.html",
+    "static/css/main.6504e32b.chunk.css.map": "https://ogingo54john.github.io/csb-7rf83/static/css/main.6504e32b.chunk.css.map",
+    "static/js/2.e0fe63e5.chunk.js.LICENSE.txt": "https://ogingo54john.github.io/csb-7rf83/static/js/2.e0fe63e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2179bbc2.js",
+    "static/js/2.e0fe63e5.chunk.js",
+    "static/css/main.6504e32b.chunk.css",
+    "static/js/main.a4ec8b40.chunk.js"
+  ]
+}
